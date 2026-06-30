@@ -46,15 +46,21 @@ The interactive dashboard (`dominos.pbix`) acts as a strategic control tower for
 ## 📁 Repository Structure
 
 ├── canvas_dominos.png         # UI Wireframe / Dashboard Design Canvas
+
 ├── domi_canvas.png            # Dashboard Component Layout Plan
+
 ├── dominoz_data (2).ipynb     # Python Jupyter Notebook for Data Cleaning & EDA
+
 ├── dominoz_unclean_50k.csv    # Raw, unprocessed initial dataset
+
 ├── dominoz_clean_final.csv    # Cleaned, engineered final dataset utilized in BI
+
 ├── dominos.pbix               # Complete Power BI Dashboard File
+
 └── README.md                  # Project Documentation
 
 ## Project Files 
-text[dominoz_clean_final.xlsx](https://github.com/user-attachments/files/29500838/dominoz_clean_final.xlsx)
+[dominoz_clean_final.xlsx](https://github.com/user-attachments/files/29500838/dominoz_clean_final.xlsx)
 
 [dominoz_unclean_50k.csv](https://github.com/user-attachments/files/29500850/dominoz_unclean_50k.csv)
 
