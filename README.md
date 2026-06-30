@@ -65,3 +65,9 @@ The interactive dashboard (`dominos.pbix`) acts as a strategic control tower for
 [dominoz_unclean_50k.csv](https://github.com/user-attachments/files/29500850/dominoz_unclean_50k.csv)
 
 [dominoz_data (2).ipynb](https://github.com/user-attachments/files/29500849/dominoz_data.2.ipynb)
+
+## Dashbord Images
+<img width="1345" height="726" alt="Screenshot 2026-06-30 153004" src="https://github.com/user-attachments/assets/9bffe989-d6d4-430f-9d62-7dbca356e7cf" />
+<img width="1351" height="728" alt="Screenshot 2026-06-30 152950" src="https://github.com/user-attachments/assets/1e236f98-10d0-4654-93e2-c1c86c6865ba" />
+<img width="1336" height="726" alt="Screenshot 2026-06-30 152939" src="https://github.com/user-attachments/assets/5e993409-f95b-4e29-b2dc-77df8f5b60fb" />
+
